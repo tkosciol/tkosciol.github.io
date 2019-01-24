@@ -1,3 +1,0 @@
-## Placeholder for the Tomasz Lab website
-
-work in progress...
