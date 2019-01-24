@@ -1,0 +1,15 @@
+# Site settings
+title: Umagaur Blog
+author: umagaur
+description: > # this means to ignore newlines until "baseurl:"
+  Umagaur Blog
+baseurl: "" # the subpath of your site, e.g. /blog
+github_username:  umagaur
+permalink: /blog/:year/:month/:title.html
+
+sass:
+  style: compressed
+
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
