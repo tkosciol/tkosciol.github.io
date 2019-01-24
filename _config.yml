@@ -3,9 +3,9 @@ title: Tomasz Lab
 author: Tomasz Kosciolek
 description: > # this means to ignore newlines until "baseurl:"
   Tomasz Lab
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /posts
 github_username:  tkosciol
-permalink: /blog/:year/:month/:title.html
+permalink: /posts/:year/:month/:title.html
 
 sass:
   style: compressed
