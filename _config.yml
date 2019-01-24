@@ -1,0 +1,15 @@
+# Site settings
+title: Tomasz Lab
+author: tkosciol
+description: > # this means to ignore newlines until "baseurl:"
+  Tomasz Lab
+baseurl: "" # the subpath of your site, e.g. /blog
+github_username:  tkosciol
+permalink: /blog/:year/:month/:title.html
+
+sass:
+  style: compressed
+
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
