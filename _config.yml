@@ -1,5 +1,6 @@
 # Site settings
 title: Tomasz Lab
+email: tkosciolek@ucsd.edu
 author: tkosciol
 description: > # this means to ignore newlines until "baseurl:"
   Tomasz Lab
