@@ -1,6 +1,25 @@
+---
+layout: page
+title: "Home"
+class: home
+---
+
 # Tomasz Lab at Małopolska Centre of Biotechnology
 
-## Research
+<div class="columns" markdown="1">
+
+<div class="intro" markdown="1">
+Hi, I'm Tomasz Kościółek and here will be more info about my research.
+</div>
+
+<div class="me" markdown="1">
+<img src="{{ '/images/tomasz_photo.jpg' | absolute_url }}" alt="Tomasz">
+
+{:.no-list}
+* <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+</div>
+
+</div>
 
     Research summary
 
