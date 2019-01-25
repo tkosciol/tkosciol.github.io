@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "Tomasz Lab"
 class: home
 ---
 
@@ -20,8 +20,6 @@ Hi, I'm Tomasz Kościółek and here will be more info about my research.
 </div>
 
 </div>
-
-    Research summary
 
 ## Projects that we contribute to
 
