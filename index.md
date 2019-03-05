@@ -16,7 +16,7 @@ Long-term, we want to develop a multi-scale understanding of the microbiome, fro
 </div>
 
 <div class="me" markdown="1">
-<img src="{{ '/images/tomasz_photo.jpg' | absolute_url }}" height="200" width="200" alt="Tomasz">
+<img src="{{ '/images/tomasz_photo.jpg' | absolute_url }}" alt="Tomasz">
 
 {:.no-list}
 * <a href="mailto:{{ site.email }}">{{ site.email }}</a>
