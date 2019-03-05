@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tomasz Lab: Home"
+title: "Microbial Proteins"
 class: home
 ---
 
@@ -41,3 +41,4 @@ Long-term, we want to develop a multi-scale understanding of the microbiome, fro
 - [Google Scholar](https://scholar.google.pl/citations?user=1Mi0KMMAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Tomasz_Kosciolek)
 - [github](https://github.com/tkosciol)
+- [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/en_GB/)
