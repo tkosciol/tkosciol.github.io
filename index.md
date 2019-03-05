@@ -8,7 +8,7 @@ class: home
 
 <div class="columns" markdown="1">
 We develop computational methods to understand the functions of the human microbiome.
-Our work involves predicting the structures, functions and interactions of microbial proteins on a genomic scale, as well as analyses of microbial data to understand how the changes in the microbiome impact human health. Especially, in the context of mental health, type-1 diabetes and inflammatory bowel disease.  
+Our work involves predicting the structures, functions and interactions of microbial proteins on a genomic scale, as well as analyses of microbial data to understand how the changes in the microbiome impact human health. Especially, in the context of mental health, type-1 diabetes and inflammatory bowel disease.
 
 Long-term, we want to develop a multi-scale understanding of the microbiome, from genes, through structures, to functions and therapies.
 <div class="intro" markdown="1">
