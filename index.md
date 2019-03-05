@@ -36,7 +36,7 @@ Long-term, we want to develop a multi-scale understanding of the microbiome, fro
 - [Bonneau Lab @ Flatiron Institute](https://www.simonsfoundation.org/team/richard-bonneau/)
 - [Xavier Lab @ Broad Institute](https://www.broadinstitute.org/xavier-lab)
 
-## contact
+## more information
 
 - [Google Scholar](https://scholar.google.pl/citations?user=1Mi0KMMAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Tomasz_Kosciolek)
