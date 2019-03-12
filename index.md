@@ -21,6 +21,16 @@ Long-term, we want to develop a multi-scale understanding of the microbiome, fro
 
 </div>
 
+## Opportunities
+
+We will be looking for a *PhD student* and a *post-doc/technician* _beginning September 2019_.
+
+- PhD student: protein structure prediction and sutructure-assisted protein function predictions using deep learning methods to unnderstand the functional potential within the microbiome. There will also be multiple opportunities to work on projects related to the human microbiome analyses, especially in the context of type-1 diabetes and mental health. The role will be strictly computational but with significant implications for experimental applications. It will involve collaborative work with international groups.
+
+- Postdoc: build and maintain a consitent and extensible computational framework for structural and functional annotation of microbial genomes and metagenomes. The role requires strong computational and quantitative skills; it will involve international collaborations.
+
+If you wish to be informed once the openings are announced, please indicate your interest by emailing [work@tomaszlab.org](work@tomaszlab.org)
+
 ## Projects
 
 - [Microbiome Immunity Project](https://www.worldcommunitygrid.org/research/mip1/overview.do)
