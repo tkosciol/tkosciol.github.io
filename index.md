@@ -10,7 +10,7 @@ class: home
 
 <div class="intro" markdown="1">
 We develop computational methods to understand the functions of the human microbiome.
-Our work involves predicting the structures, functions, and interactions of microbial proteins on a genomic scale, as well as analyses of microbial data to understand how the changes in the microbiome impact human health. Especially, in the context of mental health, type-1 diabetes, and inflammatory bowel disease.
+Our work involves method development to predict the structures, functions, and interactions of microbial proteins on a genomic scale. We also analyse microbial data to understand how the changes in the microbiome impact human health. Specifically, in the context of mental health, type-1 diabetes, and inflammatory bowel disease.
 
 Long-term, we want to develop a multi-scale understanding of the microbiome, from genes, through structures, to functions, and therapies.
 </div>
@@ -25,7 +25,7 @@ Long-term, we want to develop a multi-scale understanding of the microbiome, fro
 
 We will be looking for a *PhD student* and a *post-doc/technician* __beginning September 2019__.
 
-- **PhD student:** protein structure prediction, and structure-assisted protein function predictions using deep learning methods to understand the functional potential within the microbiome. There will also be multiple opportunities to work on projects related to the human microbiome analyses, especially in the context of type-1 diabetes, and mental health. The role will be strictly computational but with significant implications for experimental applications. It will involve collaborative work with international groups.
+- **PhD student:** protein structure prediction, and structure-assisted protein function predictions using deep learning methods to understand the functional potential within the microbiome. There will also be multiple opportunities to work on projects related to the human microbiome analyses, especially in type-1 diabetes, and mental health. The role will be strictly computational but with significant implications for experimental applications. It will involve collaborative work with high-profile international groups.
 
 - **Postdoc/technician:** build and maintain a consistent and extensible computational framework for structural and functional annotation of microbial genomes, and metagenomes. The role requires strong computational and quantitative skills; it will involve international collaborations.
 
@@ -50,5 +50,4 @@ If you wish to be informed once the openings are announced, please indicate your
 
 - [Google Scholar](https://scholar.google.pl/citations?user=1Mi0KMMAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Tomasz_Kosciolek)
-- [GitHub](https://github.com/tkosciol)
 - [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/en_GB/)
