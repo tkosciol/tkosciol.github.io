@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Microbial Proteins"
+title: "Structural and Functional Genomics"
 class: home
 ---
 
-# Tomasz Kościołek Lab at Małopolska Centre of Biotechnology
+# Structural and Functional Genomics Lab at Małopolska Centre of Biotechnology
 
 <div class="columns" markdown="1">
 
@@ -23,13 +23,12 @@ Long-term, we want to develop a multi-scale understanding of the microbiome, fro
 
 ## Opportunities
 
-We will be looking for a *PhD student* and a *post-doc/technician* __beginning September 2019__.
+We are looking for a **PhD student** and a **post-doc/research associate** _to start October 2019_.
 
 - **PhD student:** protein structure prediction, and structure-assisted protein function predictions using deep learning methods to understand the functional potential within the microbiome. There will also be multiple opportunities to work on projects related to the human microbiome analyses, especially in type-1 diabetes, and mental health. The role will be strictly computational but with significant implications for experimental applications. It will involve collaborative work with high-profile international groups.
+[**MORE & APPLY**](http://tomaszlab.org/phd)
 
-- **Postdoc/technician:** build and maintain a consistent and extensible computational framework for structural and functional annotation of microbial genomes, and metagenomes. The role requires strong computational and quantitative skills; it will involve international collaborations.
-
-If you wish to be informed once the openings are announced, please indicate your interest by emailing [work@tomaszlab.org](mailto:work@tomaszlab.org)
+- **Postdoc/research associate:** build and maintain a consistent and extensible computational framework for structural and functional annotation of microbial genomes, and metagenomes. The role requires strong computational and quantitative skills; it will involve international collaborations. [**MORE & APPLY**](http://tomaszlab.org/associate)
 
 ## Projects
 
