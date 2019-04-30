@@ -1,4 +1,4 @@
-# Graduate student in bioinformatics at Małopolska Centre of Biotechnology in Kraków, Poland
+# Graduate student in bioinformatics
 
 The Structural and Functional Genomics lab at the Małopolska Centre of Biotechnology is **looking for a graduate research assistant to join the group**. The position is available from October 2019 with funding covered by the project until December 2022.
 
