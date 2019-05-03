@@ -34,13 +34,13 @@ MCB offers an international and collaborative environment with access to state-o
 *   have documented experience in test-driven software development,
 *   have a collaborative mindset,
 *   enjoy interdisciplinary work,
-*   understand the importance of communication and interactions with other group members, collaborators and Centre members,
-*   for postdoc applicants (applicants holding a PhD degree): have a track record of presenting at conferences and published research. 
+*   understand the importance of communication and interactions with other group members, collaborators and Centre members.
 
 
 ## The ideal candidate will
 
 *   fulfill all of the expectations of the “successful candidate”,
+*   have a track record of presenting at conferences and published research,
 *   have experience in data science, structural biology, or computer-aided drug design,
 *   have an active interest in microbiome research.
 
@@ -69,4 +69,4 @@ Please send an email with a subject line “_research associate_” to [work@tom
 
 We are committed to equal opportunities and will not discriminate anyone on the basis of: nationality, age, sex, race, disability, religion, sexual orientation and pregnancy/maternity.
 
-Selected applicants will be interviewed after the application deadline has passed.
+The recruitment will be carried out in 2 steps. Selected applicants will be interviewed after the application deadline has passed.
