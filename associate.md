@@ -63,7 +63,8 @@ Please send an email with a subject line “_research associate_” to [work@tom
 *   a cover letter including a short description of your key achievements, as well as a short explanation for why you would like to join my lab and how this position fits into your interests and career aspirations,
 *   CV,
 *   names, contact details and professional relationship status of 3 potential referees,
-<!-- *   Please include the following statement in your application: “I hereby authorize you to process my personal data included in my job application for the needs of the recruitment process (in accordance with the Act of 29 August 1997 on the protection of personal data, Dz. U. No 133, item. 883, as amended)”.
+<!-- 
+*   Please include the following statement in your application: “I hereby authorize you to process my personal data included in my job application for the needs of the recruitment process (in accordance with the Act of 29 August 1997 on the protection of personal data, Dz. U. No 133, item. 883, as amended)”.
 
 ### **Application deadline is Friday, June 28 2019.**
 -->
