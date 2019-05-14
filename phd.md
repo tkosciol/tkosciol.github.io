@@ -36,7 +36,7 @@ MCB offers an international and collaborative environment with access to state-o
 *   hold an undergraduate degree in a quantitative field like biology, chemistry, physics, mathematics, computer science or similar by the time of starting the position,
 *   enroll in the Doctoral School programme at the Jagiellonian University in Kraków,
 *   have excellent written and oral communication skills in English,
-*   be open to learn at least one programming language (esp. Python),
+*   be open to learning at least one programming language (esp. Python),
 *   have a collaborative mindset,
 *   understand the importance of communication and interactions with other group members, collaborators and Centre members.
 
@@ -66,7 +66,7 @@ Please send an email with a subject line “_PhD student_” to [work@tomaszlab.
 
 *   a cover letter including a short description of your key achievements, as well as a short explanation for why you would like to join my lab and how this position fits with your interests and career aspirations,
 *   an academic CV,
-*   names, contact details and professional relationship status of 2 potential referees.
+*   names, contact details and professional relationship status of 2 potential referees.  
 <!--
 *   Please include the following statement in your application: “I hereby authorize you to process my personal data included in my job application for the needs of the recruitment process (in accordance with the Act of 29 August 1997 on the protection of personal data, Dz. U. No 133, item. 883, as amended)”.
 
