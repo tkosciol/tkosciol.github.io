@@ -1,6 +1,8 @@
-# Graduate student in bioinformatics
+<!--# Graduate student in bioinformatics
+-->
+# Pre-doctoral fellow in bioinformatics
 
-The Structural and Functional Genomics lab at the Małopolska Centre of Biotechnology is **looking for a graduate research assistant to join the group**. The position is available from October 2019 with funding covered by the project until December 2022.
+The Structural and Functional Genomics lab at the Małopolska Centre of Biotechnology is **looking for a pre-doctoral fellow to join the group**. The position is available from October 2019 with funding covered by the project until December 2022.
 
 I have recently moved from University of California San Diego to Poland to start a group at the [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/), Jagiellonian University in Kraków.
 
@@ -57,17 +59,18 @@ MCB offers an international and collaborative environment with access to state-o
 *   flexible working time.
 
 
-## How to apply
+## How to inquire
 
 Please send an email with a subject line “_PhD student_” to [work@tomaszlab.org](mailto:work@tomaszlab.org) including: 
 
 *   a cover letter including a short description of your key achievements, as well as a short explanation for why you would like to join my lab and how this position fits with your interests and career aspirations,
 *   an academic CV,
-*   names, contact details and professional relationship status of 2 potential referees,
-*   Please include the following statement in your application: “I hereby authorize you to process my personal data included in my job application for the needs of the recruitment process (in accordance with the Act of 29 August 1997 on the protection of personal data, Dz. U. No 133, item. 883, as amended)”.
+*   names, contact details and professional relationship status of 2 potential referees.
+<!-- *   Please include the following statement in your application: “I hereby authorize you to process my personal data included in my job application for the needs of the recruitment process (in accordance with the Act of 29 August 1997 on the protection of personal data, Dz. U. No 133, item. 883, as amended)”.
 
 ### **Application deadline is Friday, June 28 2019.**
+-->
 
 We are committed to equal opportunities and will not discriminate anyone on the basis of: nationality, age, sex, race, disability, religion, sexual orientation and pregnancy/maternity.
 
-Selected applicants will be interviewed after the application deadline has passed.
+Selected applicants will be contacted before the end of June.<!--interviewed after the application deadline has passed.-->
