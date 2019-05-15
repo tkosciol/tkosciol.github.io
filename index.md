@@ -50,3 +50,4 @@ We are looking for a **PhD student** and a **post-doc/research associate** _to s
 - [Google Scholar](https://scholar.google.pl/citations?user=1Mi0KMMAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Tomasz_Kosciolek)
 - [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/en_GB/)
+- [crash course in bioinformatic analysis of microbiome data (courtesy of CMI)](http://bit.ly/CMI-BioInfoGuide)
