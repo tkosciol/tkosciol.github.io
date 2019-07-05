@@ -2,8 +2,9 @@
 
 The Structural and Functional Genomics lab at the Małopolska Centre of Biotechnology is **looking for a research associate/postdoc to join the group**. The position is available from October 2019 with funding covered by the project until June 2023.
 
-I have recently moved from University of California San Diego to Poland to start a group at the [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/), Jagiellonian University in Kraków.
+I have recently moved from University of California San Diego to Poland to start a group at the [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/), Jagiellonian University in Kraków.  
 
+**I am still accepting applications for this position!**
 
 ## The project
 
@@ -30,8 +31,8 @@ MCB offers an international and collaborative environment with access to state-o
 
 *   hold a Masters degree in computer science or a similar field, or hold a PhD degree in a quantitative field such as biology, bioinformatics, physics, mathematics or computer science,
 *   have excellent written and oral communication skills in English,
-*   have expertise in at least one programming language (esp. Python),
-*   have documented experience in test-driven software development,
+*   have _expertise_ in at least one programming language (esp. Python),
+*   have _documented experience_ in test-driven software development,
 *   have a collaborative mindset,
 *   enjoy interdisciplinary work,
 *   understand the importance of communication and interactions with other group members, collaborators and Centre members.
@@ -62,6 +63,7 @@ Please send an email with a subject line “_research associate_” to [work@tom
 
 *   a cover letter including a short description of your key achievements, as well as a short explanation for why you would like to join my lab and how this position fits into your interests and career aspirations,
 *   CV,
+*   sample code or a link to a repositiory,
 *   names, contact details and professional relationship status of 3 potential referees.  
 
 <!-- 
@@ -75,4 +77,4 @@ We are committed to equal opportunities and will not discriminate anyone on the 
 <!--
 The recruitment will be carried out in 2 steps. Selected applicants will be interviewed after the application deadline has passed.
 -->
-Selected applicants will be contacted before the end of June.
+Selected applicants will be contacted within 2 weeks of applying.
