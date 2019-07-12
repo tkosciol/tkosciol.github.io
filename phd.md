@@ -72,7 +72,7 @@ Please send an email with a subject line “_PhD student_” to [work@tomaszlab.
 * [in Polish](https://bip.uj.edu.pl/praca/inne-stanowiska-nauczycieli-akademickich?p_p_id=56_INSTANCE_I4gt&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-3&p_p_col_count=1&groupId=1384597&articleId=142939334&widok=ogloszenie)
 * [in English](https://euraxess.ec.europa.eu/jobs/415156)
 
-### **Application deadline is Sunday, July 7 2019.**
+### **Applicants witll be contacted within 2 weeks of applying.**
 
 We are committed to equal opportunities and will not discriminate anyone on the basis of: nationality, age, sex, race, disability, religion, sexual orientation and pregnancy/maternity.
 
