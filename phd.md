@@ -15,7 +15,7 @@ The human gut microbiome is a diverse and dynamic ecosystem of over 2 million un
 
 ## The role
 
-The work will be focused on protein structure prediction, and structure-assisted protein function predictions using __deep learning__ methods to understand the functional potential within the human gut microbiome. Your role will be to improve function predictions by testing various sources of structural information and determining the contributions the structures play in improving function predictions. Once the function predictions are optimized, we will use them to characterize genomes and metagenomes from the human gut microbiome.
+The work will be focused on protein structure prediction, and structure-assisted protein function predictions using deep learning methods to understand the functional potential within the human gut microbiome. Your role will be to improve function predictions by testing various sources of structural information and determining the contributions the structures play in improving function predictions. Once the function predictions are optimized, we will use them to characterize genomes and metagenomes from the human gut microbiome.
 
 The work will be carried out as a part of the [Microbiome Immunity Project](https://www.worldcommunitygrid.org/research/mip1/overview.do). There will also be multiple opportunities to work on projects related to the human microbiome analyses, especially in type-1 diabetes, and mental health (the gut-brain axis).
 
@@ -68,9 +68,11 @@ Please send an email with a subject line “_PhD student_” to [work@tomaszlab.
 *   an academic CV,
 *   names, contact details and professional relationship status of 2 potential referees.
 
+<!--
 **Official job postings may be found here:**
 * [in Polish](https://bip.uj.edu.pl/praca/inne-stanowiska-nauczycieli-akademickich?p_p_id=56_INSTANCE_I4gt&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-3&p_p_col_count=1&groupId=1384597&articleId=142939334&widok=ogloszenie)
 * [in English](https://euraxess.ec.europa.eu/jobs/415156)
+-->
 
 ### **Applicants will be contacted within 2 weeks of applying.**
 
