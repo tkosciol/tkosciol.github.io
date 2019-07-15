@@ -78,4 +78,6 @@ Please send an email with a subject line “_PhD student_” to [work@tomaszlab.
 
 We are committed to equal opportunities and will not discriminate anyone on the basis of: nationality, age, sex, race, disability, religion, sexual orientation and pregnancy/maternity.
 
+<!--
 Selected applicants will be interviewed after the application deadline has passed.
+-->
