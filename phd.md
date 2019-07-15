@@ -5,17 +5,17 @@
 
 The Structural and Functional Genomics lab at the Małopolska Centre of Biotechnology is **looking for a pre-doctoral fellow to join the group**. The position is available from October 2019 with funding covered by the project until December 2022.
 
-I have recently moved from University of California San Diego to Poland to start a group at the [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/), Jagiellonian University in Kraków.
+I have recently moved from [Rob Knight's Lab](https://knightlab.ucsd.edu) at the University of California San Diego to Poland to start a group at the [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/), Jagiellonian University in Kraków.
 
 
-## The project
+## The big picture
 
 The human gut microbiome is a diverse and dynamic ecosystem of over 2 million unique gene families, outnumbering the human genome more than 100:1. The gut microbiome is already linked to many human diseases, ranging from inflammatory bowel disease, through diabetes, to mental health and many more. Still, even the most prevalent gut microbes can only be accurately annotated at less than 50% of gene functions. The microbiome holds a great promise for precision medicine, as it may be easily manipulated, unlike the human genome. But to be able to do it, we first must understand its functions. In this project, through the use of genomic and metagenomic data, we carry out protein structure predictions, machine learning-based function predictions and attempt to determine host-microbiome interactions. As a result, we will bridge the gap between what we already know about microbial metagenomes and their functions.
 
 
 ## The role
 
-The work will be focused on protein structure prediction, and structure-assisted protein function predictions using deep learning methods to understand the functional potential within the human gut microbiome. Your role will be to improve function predictions by testing various sources of structural information and determining the contributions the structures play in improving function predictions. Once the function predictions are optimized, we will use them to characterize genomes and metagenomes from the human gut microbiome.
+The work will be focused on protein structure prediction, and structure-assisted protein function predictions using __deep learning__ methods to understand the functional potential within the human gut microbiome. Your role will be to improve function predictions by testing various sources of structural information and determining the contributions the structures play in improving function predictions. Once the function predictions are optimized, we will use them to characterize genomes and metagenomes from the human gut microbiome.
 
 The work will be carried out as a part of the [Microbiome Immunity Project](https://www.worldcommunitygrid.org/research/mip1/overview.do). There will also be multiple opportunities to work on projects related to the human microbiome analyses, especially in type-1 diabetes, and mental health (the gut-brain axis).
 
