@@ -30,6 +30,8 @@ We are looking for a **PhD student** and a **post-doc/research associate** _to s
 
 - **Postdoc/research associate:** build and maintain a consistent and extensible computational framework for structural and functional annotation of microbial genomes, and metagenomes. The role requires strong computational and quantitative skills; it will involve international collaborations. [**MORE & APPLY**](http://tomaszlab.org/associate)
 
+- **Masters student:** Elucidating the structure of Malaria gyrase using bioinformatics techniques [**MORE & APPLY**](http://tomaszlab.org/msc)
+
 ## Projects
 
 - [Microbiome Immunity Project](https://www.worldcommunitygrid.org/research/mip1/overview.do)
