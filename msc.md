@@ -1,3 +1,9 @@
+---
+layout: page
+title: "MSc bioinformatics project"
+class: projects
+---
+
 # Elucidating the structure of Malaria gyrase - MSc bioinformatics project
 
 ## biological background
@@ -9,7 +15,7 @@ Malaria is still an ongoing problem worldwide. The deadliest form of malaria is 
 To understand if this is the case we need to characterise this gyrase but despite similarities to bacterial gyrases, *Plasmodium falciparum* gyrase remains unknown and so far nobody has succeeded in expressing the protein and the reasons for those problems are unknown.
 </div>
 
-<div class="me" markdown="1">
+<div class="protein" markdown="1">
 <img src="{{ '/images/gyrase.png' | absolute_url }}" alt="bacterial gyrase crystal structure">
 </div>
 
