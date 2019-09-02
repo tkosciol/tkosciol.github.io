@@ -1,4 +1,4 @@
-# MSc bioinformatics project at Małopolska Centre of Biotechnology
+# Elucidating the structure of Malaria gyrase - MSc bioinformatics project
 
 ## biological background
 
