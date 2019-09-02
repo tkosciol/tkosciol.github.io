@@ -2,8 +2,12 @@
 
 ## biological background
 
+<div class="columns" markdown="1">
+
+<div class="intro" markdown="1">
 Malaria is still an ongoing problem worldwide. The deadliest form of malaria is caused by  the *Plasmodium falciparum* parasite which affects millions of people and kills over 500,000 every year according to the WHO. The parasite contains an organelle called the apicoplast inside which there is a special topoisomerase - DNA gyrase. This enzyme is also present in bacteria and widely used as an antibacterial drug target because it induces double strand DNA breaks during its mechanism of action and popular antibacterial drugs cause the enzyme to release these breaks, killing the cell. In theory then, apicoplast gyrase should be a good target for novel antimalarial drugs.
 To understand if this is the case we need to characterise this gyrase but despite similarities to bacterial gyrases, *Plasmodium falciparum* gyrase remains unknown and so far nobody has succeeded in expressing the protein and the reasons for those problems are unknown.
+</div>
 
 <div class="me" markdown="1">
 <img src="{{ '/images/gyrase.png' | absolute_url }}" alt="bacterial gyrase crystal structure">
