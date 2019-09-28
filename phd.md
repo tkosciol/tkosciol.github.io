@@ -3,6 +3,8 @@
 -->
 # Pre-doctoral fellow in bioinformatics
 
+# POSITION IS NO LONGER AVAILABLE
+
 The Structural and Functional Genomics lab at the Małopolska Centre of Biotechnology is **looking for a pre-doctoral fellow to join the group**. The position is available from October 2019 with funding covered by the project until December 2022.
 
 I have recently moved from [Rob Knight's Lab](https://knightlab.ucsd.edu) at the University of California San Diego to Poland to start a group at the [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/), Jagiellonian University in Kraków.
@@ -45,7 +47,7 @@ MCB offers an international and collaborative environment with access to state-o
 
 *   fulfill all of the expectations of the “successful candidate”,
 *   have experience in either data science, statistics, machine learning, and/or metagenomics, structural bioinformatics,
-*   have documented experience in test-driven software development, 
+*   have documented experience in test-driven software development,
 *   have an active interest in microbiome research,
 *   have a track record of presenting at research conferences and/or published research.
 
@@ -62,7 +64,7 @@ MCB offers an international and collaborative environment with access to state-o
 
 ## How to inquire
 
-Please send an email with a subject line “_PhD student_” to [work@tomaszlab.org](mailto:work@tomaszlab.org) including: 
+Please send an email with a subject line “_PhD student_” to [work@tomaszlab.org](mailto:work@tomaszlab.org) including:
 
 *   a cover letter including a short description of your key achievements, as well as a short explanation for why you would like to join my lab and how this position fits with your interests and career aspirations,
 *   an academic CV,

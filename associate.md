@@ -1,5 +1,7 @@
 # Bioinformatics research associate
 
+# POSITION IS NO LONGER AVAILABLE
+
 The Structural and Functional Genomics lab at the Małopolska Centre of Biotechnology is **looking for a research associate/postdoc to join the group**. The position is available from October 2019 with funding covered by the project until June 2023.
 
 I have recently moved from University of California San Diego to Poland to start a group at the [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/), Jagiellonian University in Kraków.  
@@ -13,7 +15,7 @@ The human gut microbiome is a diverse and dynamic ecosystem of over 2 million un
 
 ## The role
 
-The main objective for the role is to build and maintain a consistent and extensible computational framework and database for structural and functional annotation of microbial genomes, and metagenomes. Depending on scientific or technical interests, it will be extended to work on host-microbiome protein-protein interactions, virtual screening to find molecules inhibiting identified and experimentally confirmed interactions, or work on computational problems related to the volume and living character of the data (i.e. perpetual clustering, novelty detection, data classification and visualization). 
+The main objective for the role is to build and maintain a consistent and extensible computational framework and database for structural and functional annotation of microbial genomes, and metagenomes. Depending on scientific or technical interests, it will be extended to work on host-microbiome protein-protein interactions, virtual screening to find molecules inhibiting identified and experimentally confirmed interactions, or work on computational problems related to the volume and living character of the data (i.e. perpetual clustering, novelty detection, data classification and visualization).
 
 The work will be carried out as a part of the [Microbiome Immunity Project](https://www.worldcommunitygrid.org/research/mip1/overview.do). The role will be **exclusively computational but with significant implications for experimental applications**. It will involve collaborative work with high-profile international groups. **The results of the project will contribute to our understanding of the function of the human gut microbiome**, what will help us design precision medicine strategies (therapies and interventions) targeting the microbiome.
 
@@ -59,14 +61,14 @@ MCB offers an international and collaborative environment with access to state-o
 
 ## How to inquire
 
-Please send an email with a subject line “_research associate_” to [work@tomaszlab.org](mailto:work@tomaszlab.org) including: 
+Please send an email with a subject line “_research associate_” to [work@tomaszlab.org](mailto:work@tomaszlab.org) including:
 
 *   a cover letter including a short description of your key achievements, as well as a short explanation for why you would like to join my lab and how this position fits into your interests and career aspirations,
 *   CV,
 *   sample code or a link to a repositiory,
 *   names, contact details and professional relationship status of 3 potential referees.  
 
-<!-- 
+<!--
 Please include the following statement in your application: “I hereby authorize you to process my personal data included in my job application for the needs of the recruitment process (in accordance with the Act of 29 August 1997 on the protection of personal data, Dz. U. No 133, item. 883, as amended)”.
 
 ### **Application deadline is Friday, June 28 2019.**
