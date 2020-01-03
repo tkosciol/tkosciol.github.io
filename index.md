@@ -23,8 +23,6 @@ Long-term, we want to develop a multi-scale understanding of the microbiome, fro
 
 ## Opportunities
 
-We are recruiting for:
-
 There are no openings at this time.
 
 ## Projects
