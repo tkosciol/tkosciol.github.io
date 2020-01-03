@@ -25,7 +25,7 @@ Long-term, we want to develop a multi-scale understanding of the microbiome, fro
 
 We are recruiting for:
 
-- **Masters student:** Elucidating the structure of Malaria gyrase using bioinformatics techniques [**MORE & APPLY**](http://tomaszlab.org/msc)
+There are no openings at this time.
 
 ## Projects
 
