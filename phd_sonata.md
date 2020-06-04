@@ -39,7 +39,7 @@ The student will be funded by the project financed from the Polish Returns grant
 
 ## The group
 
-3 zdania
+We are a young Bioinformatics group rallying around the goal of understanding understand how the microbiome works and how we can leverage it for health and wellbeing. Combinding metagenomics, data science, machine learning, structural bioinformatics and a collaborative mindset we want to develop a multi-scale understanding of the microbiome, from genes, through structures, to functions, and therapies. We also extensively collaborate with local and international research groups and companies to grow and deliver cutting-edge, open and reproducible research which would serve the community.  
 
 ## Institution
 

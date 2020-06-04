@@ -26,6 +26,7 @@ Long-term, we want to develop a multi-scale understanding of the microbiome, fro
 We are hiring!  
 * [pre-doctoral research assistant in microbiome/metagenomics data analysis](/phd_sonata)
 * [post-doctoral research associate in machine learning](/associate_sonata)  
+  
 Apply before the end of July 2020
 
 ## Projects
@@ -49,3 +50,9 @@ Apply before the end of July 2020
 - [ResearchGate](https://www.researchgate.net/profile/Tomasz_Kosciolek)
 - [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/en_GB/)
 - [crash course in bioinformatic analysis of microbiome data (courtesy of CMI)](http://bit.ly/CMI-BioInfoGuide)
+
+## thanks for keeping our lights on and computers crunching to:
+
+- [NAWA](https://nawa.gov.pl/en/)
+- [NCN](https://www.ncn.gov.pl/?language=en)
+- [World Community Grid](https://www.worldcommunitygrid.org)
