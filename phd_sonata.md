@@ -37,7 +37,7 @@ The position will be funded by [National Science Centre](https://www.ncn.gov.pl/
 
 ## The group
 
-We are a young Bioinformatics group rallying around the goal of understanding understand how the microbiome works and how we can leverage it for health and wellbeing. Combinding metagenomics, data science, machine learning, structural bioinformatics and a collaborative mindset we want to develop a multi-scale understanding of the microbiome, from genes, through structures, to functions, and therapies. We also extensively collaborate with local and international research groups and companies to grow and deliver cutting-edge, open and reproducible research which would serve the community.  
+We are a young bioinformatics group rallying around the goal of understanding how the microbiome works and how we can leverage it for health and wellbeing. Combining metagenomics, data science, machine learning, structural bioinformatics and a collaborative mindset we want to develop a multi-scale understanding of the microbiome, from genes, through structures, to functions, and therapies. We also extensively collaborate with local and international research groups and companies to grow and deliver cutting-edge, open and reproducible research which would serve the community.    
 
 ## Institution
 

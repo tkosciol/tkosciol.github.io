@@ -4,7 +4,6 @@ The Structural and Functional Genomics lab at the Małopolska Centre of Biotechn
 
 I have recently moved from University of California San Diego to Poland and started a group in June 2019 at the [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/), Jagiellonian University in Kraków.  
 
-<!-- **I am still accepting applications for this position!** -->
 
 ## The project
 
@@ -30,11 +29,11 @@ As a part of your position you are also going to be expected to contribute to th
 
 The position will be funded by [National Science Centre](https://www.ncn.gov.pl/?language=en) SONATA 15 project.  
   
-**PLEASE NOTE:** due to [NCN regulations](https://www.ncn.gov.pl/sites/default/files/pliki/uchwaly-rady/2019/uchwala90_2019-zal1.pdf) I am __not allowed to hire postdocs who obtained their PhDs at the Jagiellonian University__. If you wish to contact NCN and let them know what you think about it, please e-mail: [kancelaria@ncn.gov.pl](mailto:kancelaria@ncn.gov.pl)
+**PLEASE NOTE:** due to [NCN regulations](https://www.ncn.gov.pl/sites/default/files/pliki/uchwaly-rady/2019/uchwala90_2019-zal1.pdf) I am __not allowed to hire postdocs who obtained their PhDs at the Jagiellonian University__. For more information on the reason behind that or to share your opinion, please contact the agency via e-mail:: [kancelaria@ncn.gov.pl](mailto:kancelaria@ncn.gov.pl)
 
 ## The group
 
-We are a young Bioinformatics group rallying around the goal of understanding understand how the microbiome works and how we can leverage it for health and wellbeing. Combinding metagenomics, data science, machine learning, structural bioinformatics and a collaborative mindset we want to develop a multi-scale understanding of the microbiome, from genes, through structures, to functions, and therapies. We also extensively collaborate with local and international research groups and companies to grow and deliver cutting-edge, open and reproducible research which would serve the community.  
+We are a young bioinformatics group rallying around the goal of understanding how the microbiome works and how we can leverage it for health and wellbeing. Combining metagenomics, data science, machine learning, structural bioinformatics and a collaborative mindset we want to develop a multi-scale understanding of the microbiome, from genes, through structures, to functions, and therapies. We also extensively collaborate with local and international research groups and companies to grow and deliver cutting-edge, open and reproducible research which would serve the community.  
 
 ## Institution
 
@@ -45,7 +44,7 @@ MCB offers an international and collaborative environment with access to state-o
 
 ## The successful candidate will
 
-*   a PhD degree in computer science, or a quantitative field such as biology, bioinformatics, physics or mathematics,
+*   have a PhD degree in computer science, or a quantitative field such as biology, bioinformatics, physics or mathematics,
 *   have excellent written and oral communication skills in English,
 *   have _expertise_ in machine learning (esp. deep learning methods and software, e.g. TensorFlow, Keras),
 *   have _documented experience_ in test-driven software development,
