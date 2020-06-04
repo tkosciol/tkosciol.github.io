@@ -10,7 +10,7 @@ I have recently moved from University of California San Diego to Poland and star
 
 ## The project
 
-### Predicting microbiome changes over time and upon perturbation: applications of machine learning to microbiome research and therapeutic strategies**
+### Predicting microbiome changes over time and upon perturbation: applications of machine learning to microbiome research and therapeutic strategies
 
 __Background__  
 The human body forms different ecological niches for microoranisms. We host a plethora of microbes on each part of our body – different parts of our skin, our mouths; and in our body, especially in the gut. Those different niches are called microbiomes, for example the gut microbiome. In a bit over a decade the scientists described different microbiomes and learned that the microbiome is not only necessary, as it co-evolved with us, diverse and complex, but also important to health. Changes in the composition of microbes may result in an imbalance within the ecosystem of our guts called dysbiosis, which in turn may lead or contribute to disease. We already know a wide array of microbiome-disease associations, from the quite expected ones, such as obesity or gastrointestinal problems (ulcerative colitis or Crohn’s disease), to diseases presumed far removed from the gut – type-1 diabetes, allergies, depression, anxiety, neurodegenerative disorders, cancer, and others.  
