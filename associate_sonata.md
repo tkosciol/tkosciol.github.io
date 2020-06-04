@@ -8,7 +8,7 @@ I have recently moved from University of California San Diego to Poland and star
 
 ## The project
 
-**Predicting microbiome changes over time and upon perturbation: applications of machine learning to microbiome research and therapeutic strategies**
+### Predicting microbiome changes over time and upon perturbation: applications of machine learning to microbiome research and therapeutic strategies
 
 __Background__  
 The human body forms different ecological niches for microoranisms. We host a plethora of microbes on each part of our body – different parts of our skin, our mouths; and in our body, especially in the gut. Those different niches are called microbiomes, for example the gut microbiome. In a bit over a decade the scientists described different microbiomes and learned that the microbiome is not only necessary, as it co-evolved with us, diverse and complex, but also important to health. Changes in the composition of microbes may result in an imbalance within the ecosystem of our guts called dysbiosis, which in turn may lead or contribute to disease. We already know a wide array of microbiome-disease associations, from the quite expected ones, such as obesity or gastrointestinal problems (ulcerative colitis or Crohn’s disease), to diseases presumed far removed from the gut – type-1 diabetes, allergies, depression, anxiety, neurodegenerative disorders, cancer, and others.  
@@ -29,11 +29,12 @@ Your role is going to be to develop the machine learning algorithms to predict t
 As a part of your position you are also going to be expected to contribute to the computational expertise within the group and to be proactive in solving other bioinformatic research tasks.
 
 The position will be funded by [National Science Centre](https://www.ncn.gov.pl/?language=en) SONATA 15 project.  
-**PLEASE NOTE:** due to [NCN regulations](https://www.ncn.gov.pl/sites/default/files/pliki/uchwaly-rady/2019/uchwala90_2019-zal1.pdf) I am _unable to hire postdocs who obtained their PhDs at the Jagiellonian University_. If you wish to contact NCN and let them know what you think about it, please e-mail: kancelaria@ncn.gov.pl
+  
+**PLEASE NOTE:** due to [NCN regulations](https://www.ncn.gov.pl/sites/default/files/pliki/uchwaly-rady/2019/uchwala90_2019-zal1.pdf) I am __not allowed to hire postdocs who obtained their PhDs at the Jagiellonian University__. If you wish to contact NCN and let them know what you think about it, please e-mail: [kancelaria@ncn.gov.pl](mailto:kancelaria@ncn.gov.pl)
 
 ## The group
 
-3 zdania
+We are a young Bioinformatics group rallying around the goal of understanding understand how the microbiome works and how we can leverage it for health and wellbeing. Combinding metagenomics, data science, machine learning, structural bioinformatics and a collaborative mindset we want to develop a multi-scale understanding of the microbiome, from genes, through structures, to functions, and therapies. We also extensively collaborate with local and international research groups and companies to grow and deliver cutting-edge, open and reproducible research which would serve the community.  
 
 ## Institution
 
@@ -46,7 +47,7 @@ MCB offers an international and collaborative environment with access to state-o
 
 *   a PhD degree in computer science, or a quantitative field such as biology, bioinformatics, physics or mathematics,
 *   have excellent written and oral communication skills in English,
-*   have _expertise_ in at least one programming language (esp. Python),
+*   have _expertise_ in machine learning (esp. deep learning methods and software, e.g. TensorFlow, Keras),
 *   have _documented experience_ in test-driven software development,
 *   have a collaborative mindset,
 *   enjoy interdisciplinary work,
