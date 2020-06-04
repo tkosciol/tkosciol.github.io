@@ -28,13 +28,11 @@ As a result of this project, we will learn how to predict the human gut microbio
 
 ## The role
 
-The work will be focused on protein structure prediction, and structure-assisted protein function predictions using deep learning methods to understand the functional potential within the human gut microbiome. Your role will be to improve function predictions by testing various sources of structural information and determining the contributions the structures play in improving function predictions. Once the function predictions are optimized, we will use them to characterize genomes and metagenomes from the human gut microbiome.
-
-The work will be carried out as a part of the [Microbiome Immunity Project](https://www.worldcommunitygrid.org/research/mip1/overview.do). There will also be multiple opportunities to work on projects related to the human microbiome analyses, especially in type-1 diabetes, and mental health (the gut-brain axis).
+The work will be focused on the analysis of available microbiome data in order to understand how the microbiome changes.  
 
 The role will be **exclusively computational but with significant implications for experimental applications**. It will involve collaborative work with high-profile international groups. **The results of the project will contribute to our understanding of the function of the human gut microbiome**, and to the design of precision medicine strategies (therapies and interventions) targeting the microbiome.
 
-The student will be funded by the project financed from the Polish Returns grant from the [Polish National Agency for Academic Exchange](https://nawa.gov.pl/en/).
+The position will be funded by [National Science Centre](https://www.ncn.gov.pl/?language=en) SONATA 15 project.  
 
 
 ## The group
