@@ -23,7 +23,10 @@ Long-term, we want to develop a multi-scale understanding of the microbiome, fro
 
 ## Opportunities
 
-There are no openings at this time.
+We are hiring!  
+* [pre-doctoral research assistant in microbiome/metagenomics data analysis](/phd_sonata)
+* [post-doctoral research associate in machine learning](/associate_sonata)  
+Apply before the end of July 2020
 
 ## Projects
 
