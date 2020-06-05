@@ -3,7 +3,7 @@
 -->
 # Pre-doctoral research assistant in bioinformatics
 
-The Structural and Functional Genomics lab at the Małopolska Centre of Biotechnology is **looking for a pre-doctoral research assistant to join the group**. The position is available from September 2020 with funding covered by the project until June 2023.
+The Structural and Functional Genomics lab at the Małopolska Centre of Biotechnology is **looking for a pre-doctoral research assistant to join the group**. The position is available from October 2020 with funding covered by the project until June 2023.
 
 I have recently moved from University of California San Diego to Poland and started a group in June 2019 at the [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/), Jagiellonian University in Kraków.  
 
@@ -17,18 +17,18 @@ The human body forms different ecological niches for microoranisms. We host a pl
     
 With those significant health implications and vast amounts of data gathered over the years we are now in a position to turn the knowledge into action – learn to predict how the microbiome changes over time and upon perturbation. With this, we are going to learn how to change the microbiome in order to promote health or devise therapeutic strategies. Those strategies may involve probiotic interventions, dietary or lifestyle changes, not necessarily classical small-molecule drugs. This is no easy task as the microbiome is massive – 10s of trillions of microbial cells representing 100s of microbial species, harboring over 100 times more genes than the human genome. On top of that the microbiome is dynamic. Unlike our genome, which is fixed from birth, the microbiome changes from day to day, evolves with our diet, lifestyle and other life events.  
      
-__Project__   
+__Project__  
 In this project we will employ a cautious step-wise strategy to pave the way for future smart microbiome-oriented therapies. As a first step, we will construct computational models of how the microbiome changes from day-to-day. Analyzing long time-series data from several individuals we are going to construct statistical and machine learning-based models (auto-encoders) to predict those changes. Thanks to those models, we will learn what features (microbes or combinations of microbes) are important for microbiome evolution over time. We will also better learn which specific algorithms and neural network architectures work for this problem. Once we master this task, we will be ready to proceed to a more complex one.
 
-One of the few microbiome-oriented therapeutic strategies are the fecal microbiome transplants (FMTs). Initially, they were used for the treatment of Clostridium difficile infections, but now they also find their use in the treatment of ulcerative colitis. Collecting the data from already published studies, we will predict the composition of patient’s microbiome after an FMT. This is a substantially more complicated task, so we will use previously designed models for time-series data to give us a head start (transfer learning paradigm).
+One of the few microbiome-oriented therapeutic strategies are the fecal microbiome transplants (FMTs). Initially, they were used for the treatment of _Clostridium difficile_ infections, but now they also find their use in the treatment of ulcerative colitis. Collecting the data from already published studies, we will predict the composition of patient’s microbiome after an FMT. This is a substantially more complicated task, so we will use previously designed models for time-series data to give us a head start (transfer learning paradigm).
     
-__Future__   
+__Future__  
 As a result of this project, we will learn how to predict the human gut microbiome changes over time and in response to FMTs. This will be a first step towards intelligent microbiome-oriented therapeutic strategies which give significant hope for many of the most debilitating diseases of today.
 
 
 ## The role
 
-The work will be focused on the analysis of available microbiome data in order to understand how the microbiome changes.  
+Your work will be focused on the analysis of available microbiome data in order to understand how the microbiome changes.  
 
 The role will be **exclusively computational but with significant implications for experimental applications**. It will involve collaborative work with high-profile international groups. **The results of the project will contribute to our understanding of the function of the human gut microbiome**, and to the design of precision medicine strategies (therapies and interventions) targeting the microbiome.
 
@@ -87,9 +87,10 @@ Please send an email with a subject line “_Sonata PhD_” to [work@tomaszlab.o
 * [in Polish](https://bip.uj.edu.pl/praca/inne-stanowiska-nauczycieli-akademickich?p_p_id=56_INSTANCE_I4gt&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-3&p_p_col_count=1&groupId=1384597&articleId=142939334&widok=ogloszenie)
 * [in English](https://euraxess.ec.europa.eu/jobs/415156)
 -->
+### **Application deadline is Friday, July 31 2020.**
 
-### **Applicants will be contacted within 2 weeks of applying.**
-
+Applicants will be contacted within 2 weeks of applying.  
+  
 We are committed to equal opportunities and will not discriminate anyone on the basis of: nationality, age, sex, race, disability, religion, sexual orientation and pregnancy/maternity.
 
 <!--
