@@ -85,7 +85,7 @@ Please send an email with a subject line “_Sonata postdoc_” to [work@tomaszl
 <!--
 Please include the following statement in your application: “I hereby authorize you to process my personal data included in my job application for the needs of the recruitment process (in accordance with the Act of 29 August 1997 on the protection of personal data, Dz. U. No 133, item. 883, as amended)”.
 -->
-### **Application deadline is Friday, July 31 2020.**
+### **Application will be considered until the post is filled.**
 
 We are committed to equal opportunities and will not discriminate anyone on the basis of: nationality, age, sex, race, disability, religion, sexual orientation and pregnancy/maternity.
 
