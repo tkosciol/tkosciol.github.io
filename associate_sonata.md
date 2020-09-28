@@ -1,6 +1,8 @@
-# Machine learning in bioinformatics research associate
+# Machine learning in microbiome research associate
 
-The Structural and Functional Genomics lab at the Małopolska Centre of Biotechnology is **looking for a postdoctoral research associate to join the group**. The position is available from September 2020 with funding covered by the project until June 2023.
+The Structural and Functional Genomics lab at the Małopolska Centre of Biotechnology is **looking for a motivated post-doc who wants to solve real-world problems important to health to join the group**. The position is available from October 2020 with funding covered by the project until June 2023.  
+
+**Experience in biology is not necessary!**  
 
 I have recently moved from University of California San Diego to Poland and started a group in June 2019 at the [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/), Jagiellonian University in Kraków.  
 
@@ -25,7 +27,7 @@ As a result of this project, we will learn how to predict the human gut microbio
 ## The role
 Your role is going to be to develop the machine learning algorithms to predict the microbiome composition over time and upon perturbation. You are going to work closely with a PhD student who is going to curate and analyse the metagenomic microbiome data.  
 
-As a part of your position you are also going to be expected to contribute to the computational expertise within the group and to be proactive in solving other bioinformatic research tasks.
+As a part of your position you are also going to be expected to contribute to the machine learning expertise within the group and other projects and to be proactive in solving other bioinformatic research tasks. As such, **computational and machine learning experience is necessary, but biological knowledge is not required!**
 
 The position will be funded by [National Science Centre](https://www.ncn.gov.pl/?language=en) SONATA 15 project.  
   
