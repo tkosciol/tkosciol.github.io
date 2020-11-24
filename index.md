@@ -24,7 +24,7 @@ Long-term, we want to develop a multi-scale understanding of the microbiome, fro
 ## Opportunities
 
 We are hiring!  
-* [post-doctoral research associate in machine learning](/associate_sonata)  
+* [post-doctoral research associate in microbiome bioinformatics](/associate_sonata)  
 
 
 ## Projects
