@@ -1,8 +1,6 @@
-# Machine learning in microbiome research associate
+# Microbiome bioinformatics research associate
 
-The Structural and Functional Genomics lab at the Małopolska Centre of Biotechnology is **looking for a motivated post-doc who wants to solve real-world problems important to health to join the group**. The position is available from October 2020 with funding covered by the project until June 2023.  
-
-**Experience in biology is not necessary!**  
+The Structural and Functional Genomics lab at the Małopolska Centre of Biotechnology is **looking for a motivated post-doc who wants to solve real-world problems important to health to join the group**. The position is available from January 2021 with funding covered by the project until June 2023.  
 
 I have recently moved from University of California San Diego to Poland and started a group in June 2019 at the [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/), Jagiellonian University in Kraków.  
 
@@ -25,11 +23,12 @@ __Future__
 As a result of this project, we will learn how to predict the human gut microbiome changes over time and in response to FMTs. This will be a first step towards intelligent microbiome-oriented therapeutic strategies which give significant hope for many of the most debilitating diseases of today.
 
 ## The role
-Your role is going to be to develop the machine learning algorithms to predict the microbiome composition over time and upon perturbation. You are going to work closely with a PhD student who is going to curate and analyse the metagenomic microbiome data.  
+Your work will be focused on bioinformatic analysis of available and newly acquired metagenomic (16S rRNA amplicon and shallow shotgun sequencing) microbiome data in order to understand how the microbiome changes. You are going to work closely with a PhD student and other Group members, who are working on the development of new machine learning-based methods for predicting microbiome changes.  
+We are also setting up the **Polish Microbiome Project** and starting to collect more and more data from the Polish population. We are expecting for the project to grow significantly in the coming years and you can become a vital part of it!
 
-As a part of your position you are also going to be expected to contribute to the machine learning expertise within the group and other projects and to be proactive in solving other bioinformatic research tasks. As such, **computational and machine learning experience is necessary, but biological knowledge is not required!**
+The role will be **exclusively computational but with significant implications for experimental applications**. It will involve collaborative work with high-profile international groups. **The results of the project will contribute to our understanding of the function of the human gut microbiome**, and to the design of precision medicine strategies (therapies and interventions) targeting the microbiome.
 
-The position will be funded by [National Science Centre](https://www.ncn.gov.pl/?language=en) SONATA 15 project.  
+The position will be funded by [National Science Centre](https://www.ncn.gov.pl/?language=en) SONATA 15 project.
   
 **PLEASE NOTE:** due to [NCN regulations](https://www.ncn.gov.pl/sites/default/files/pliki/uchwaly-rady/2019/uchwala90_2019-zal1.pdf) I am __not allowed to hire postdocs who obtained their PhDs at the Jagiellonian University__. For more information on the reason behind that or to share your opinion, please contact the agency via e-mail:: [kancelaria@ncn.gov.pl](mailto:kancelaria@ncn.gov.pl)
 
@@ -48,8 +47,7 @@ MCB offers an international and collaborative environment with access to state-o
 
 *   have a PhD degree in computer science, or a quantitative field such as biology, bioinformatics, physics or mathematics,
 *   have excellent written and oral communication skills in English,
-*   have _expertise_ in machine learning (esp. deep learning methods and software, e.g. TensorFlow, Keras),
-*   have _documented experience_ in test-driven software development,
+*   have experience in data science, metagenomics, and microbiome research,
 *   have a collaborative mindset,
 *   enjoy interdisciplinary work,
 *   understand the importance of communication and interactions with other group members, collaborators and Centre members.
@@ -58,9 +56,8 @@ MCB offers an international and collaborative environment with access to state-o
 ## The ideal candidate will
 
 *   fulfill all of the expectations of the “successful candidate”,
-*   have a track record of presenting at conferences and published research,
-*   have experience in data science, metagenomics, or biology,
-*   have an active interest in microbiome research.
+*   have _some experience_ in machine learning (esp. deep learning methods and software, e.g. TensorFlow, Keras),
+*   have a track record of presenting at conferences and published research.
 
 
 ## We offer
