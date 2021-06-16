@@ -1,29 +1,29 @@
 # Microbiome bioinformatics research associate
 
-The Structural and Functional Genomics lab at the Małopolska Centre of Biotechnology is **looking for a motivated post-doc who wants to solve real-world problems important to health to join the group**. The position is available from January 2021 with funding covered by the project until June 2023.  
+The Structural and Functional Genomics lab at the Małopolska Centre of Biotechnology is **looking for a motivated post-doc who wants to solve real-world problems important to health to join the group**. The position is available now with funding covered by the project until _at least_ June 2023.  
 
 I have recently moved from University of California San Diego to Poland and started a group in June 2019 at the [Małopolska Centre of Biotechnology](https://mcb.uj.edu.pl/), Jagiellonian University in Kraków.  
 
 
 ## The project
 
-### Predicting microbiome changes over time and upon perturbation: applications of machine learning to microbiome research and therapeutic strategies
+### Microbiome changes over time and upon perturbation: understanding the microbiome composition and function for therapeutic applications
 
 __Background__  
-The human body forms different ecological niches for microoranisms. We host a plethora of microbes on each part of our body – different parts of our skin, our mouths; and in our body, especially in the gut. Those different niches are called microbiomes, for example the gut microbiome. In a bit over a decade the scientists described different microbiomes and learned that the microbiome is not only necessary, as it co-evolved with us, diverse and complex, but also important to health. Changes in the composition of microbes may result in an imbalance within the ecosystem of our guts called dysbiosis, which in turn may lead or contribute to disease. We already know a wide array of microbiome-disease associations, from the quite expected ones, such as obesity or gastrointestinal problems (ulcerative colitis or Crohn’s disease), to diseases presumed far removed from the gut – type-1 diabetes, allergies, depression, anxiety, neurodegenerative disorders, cancer, and others.  
+In a bit over a decade the scientists described different microbiomes and learned that the microbiome is not only necessary, as it co-evolved with us, diverse and complex, but also important to health. Changes in the composition of microbes may result in an imbalance within the ecosystem of our guts called dysbiosis, which in turn may lead or contribute to disease. We already know a wide array of microbiome-disease associations, from the quite expected ones, such as obesity or gastrointestinal problems (ulcerative colitis or Crohn’s disease), to diseases presumed far removed from the gut – type-1 diabetes, allergies, depression, anxiety, neurodegenerative disorders, cancer, and others.  
     
 With those significant health implications and vast amounts of data gathered over the years we are now in a position to turn the knowledge into action – learn to predict how the microbiome changes over time and upon perturbation. With this, we are going to learn how to change the microbiome in order to promote health or devise therapeutic strategies. Those strategies may involve probiotic interventions, dietary or lifestyle changes, not necessarily classical small-molecule drugs. This is no easy task as the microbiome is massive – 10s of trillions of microbial cells representing 100s of microbial species, harboring over 100 times more genes than the human genome. On top of that the microbiome is dynamic. Unlike our genome, which is fixed from birth, the microbiome changes from day to day, evolves with our diet, lifestyle and other life events.  
      
 __Project__  
-In this project we will employ a cautious step-wise strategy to pave the way for future smart microbiome-oriented therapies. As a first step, we will construct computational models of how the microbiome changes from day-to-day. Analyzing long time-series data from several individuals we are going to construct statistical and machine learning-based models (auto-encoders) to predict those changes. Thanks to those models, we will learn what features (microbes or combinations of microbes) are important for microbiome evolution over time. We will also better learn which specific algorithms and neural network architectures work for this problem. Once we master this task, we will be ready to proceed to a more complex one.
+Our objective is to establish robust analytical pipelines for metagenomic data which would support several projects already happening within the group. With reproducible and scalable methodology in place, we will be in a position to expand our biological understanding of microbiome changes. This is a necessary step in bridging our under-development startegies for the prediction of time-series and therapeutic intervention data with functional genomics efforts to increase the accuracy and coverage of metagenomic functional annotations.  
 
-One of the few microbiome-oriented therapeutic strategies are the fecal microbiome transplants (FMTs). Initially, they were used for the treatment of _Clostridium difficile_ infections, but now they also find their use in the treatment of ulcerative colitis. Collecting the data from already published studies, we will predict the composition of patient’s microbiome after an FMT. This is a substantially more complicated task, so we will use previously designed models for time-series data to give us a head start (transfer learning paradigm).
+The Polish Microbiome Project (PMP) is an effort to build an infrastructure for sample acquisition, processing, sequencing and analysis on a national scale. We are already collecting 100s of samples from the Polish population and plan to expand to 1000s over the next year. This will give us an opportunity not only to validate methods developed in the Group on a novel dataset, but also establish a platform for microbiome-based biological discovery within the Polish population.  
     
 __Future__  
-As a result of this project, we will learn how to predict the human gut microbiome changes over time and in response to FMTs. This will be a first step towards intelligent microbiome-oriented therapeutic strategies which give significant hope for many of the most debilitating diseases of today.
+As a result of this project, we are going to have an robust platform for acquisition and analysis of the microbiome data in Poland along with 1000s of fecal (and other) samples collected from the population. This will help us to better describe the regional microbiome characteristics within Poland and open up to future national and international collaborations (e.g. ongoing collaboration with [the Microsetta Initiative](https://microsetta.ucsd.edu)). We will also better understand temporal and functional variability of the microbiome through an intersection with other ongoing projects. It has direct implications to our current immune-related microbiome disorders - IBD and type-1 diabetes.
 
 ## The role
-Your work will be focused on bioinformatic analysis of available and newly acquired metagenomic (16S rRNA amplicon and shallow shotgun sequencing) microbiome data in order to understand how the microbiome changes. You are going to work closely with a PhD student and other Group members, who are working on the development of new machine learning-based methods for predicting microbiome function and composition.  
+Your work will be focused on bioinformatic analysis of available and newly acquired metagenomic (16S rRNA amplicon and shallow shotgun sequencing) microbiome data in order to understand how the microbiome changes. You are going to work closely with a PhD student, other Group members, who are working on the development of new machine learning-based methods for predicting microbiome function and composition, as well as with our collaborators involved in sample collection and processing.  
 We are also setting up the **Polish Microbiome Project** and starting to collect more and more data from the Polish population. We are expecting for the project to grow significantly in the coming years and you can become a vital part of it!
 
 The role will be **exclusively computational but with significant implications for experimental applications**. It will involve collaborative work with high-profile international groups. **The results of the project will contribute to our understanding of the function of the human gut microbiome**, and to the design of precision medicine strategies (therapies and interventions) targeting the microbiome.
@@ -45,7 +45,7 @@ MCB offers an international and collaborative environment with access to state-o
 
 ## The successful candidate will
 
-*   have a PhD degree in computer science, or a quantitative field such as biology, bioinformatics, physics or mathematics,
+*   have a PhD degree in biology, or a quantitative field such as computer science, bioinformatics, physics or mathematics,
 *   have excellent written and oral communication skills in English,
 *   have experience in data science, metagenomics, and microbiome research,
 *   have a collaborative mindset,
@@ -57,13 +57,14 @@ MCB offers an international and collaborative environment with access to state-o
 
 *   fulfill all of the expectations of the “successful candidate”,
 *   have _some experience_ in machine learning (esp. deep learning methods and software, e.g. TensorFlow, Keras),
+*   have documented experience in metagenomic data analysis and good data science practices,
 *   have a track record of presenting at conferences and published research.
 
 
 ## We offer
 
 *   competitive salary commensurate with experience,
-*   opportunity to collaborate with world-class researchers from MCB and institutions such as University of California San Diego, Warsaw University,
+*   opportunity to collaborate with world-class researchers from MCB and institutions such as University of California San Diego, Warsaw University, Pomeranian Medical University,
 *   scientific and professional mentorship,
 *   position 100% focused on research and development (no compulsory teaching),
 *   opportunity to work on an ambitious and important scientific problem with interdisciplinary applications,
@@ -78,7 +79,6 @@ Please send an email with a subject line “_Sonata postdoc_” to [work@tomaszl
 
 *   a cover letter including a short description of your key achievements, as well as a short explanation for why you would like to join my lab and how this position fits into your interests and career aspirations,
 *   CV,
-*   sample code or a link to a repositiory,
 *   names, contact details and professional relationship status of 3 potential referees.  
 
 <!--
