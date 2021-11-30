@@ -24,7 +24,7 @@ Long-term, we want to develop a multi-scale understanding of the microbiome, fro
 ## Opportunities
 
 
-There are no open positions at this time.
+There are no open positions at this time.  
 <!-- We are hiring!  
 * [post-doctoral research associate in microbiome bioinformatics](/associate_sonata)   -->
 
